@@ -1,0 +1,3340 @@
+{
+  "players": [
+    {
+      "name": "Саша"
+    },
+    {
+      "name": "Коля"
+    },
+    {
+      "name": "Игорь"
+    }
+  ],
+  "rounds": [
+    {
+      "deck": [],
+      "buiIn": [
+        {
+          "nominal": "NINE",
+          "suit": "HEART"
+        },
+        {
+          "nominal": "TEN",
+          "suit": "DIAMOND"
+        }
+      ],
+      "fights": [
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "KING",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "KING",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "DIAMOND"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "KING",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        }
+      ],
+      "countTricks": [
+        [
+          {
+            "name": "Саша"
+          },
+          2
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          4
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          4
+        ]
+      ],
+      "bet": {
+        "countTricks": "SEVEN",
+        "trump": "NO_TRUMP"
+      },
+      "placedPlayer": {
+        "name": "Коля"
+      },
+      "isPlaced": [
+        [
+          {
+            "name": "Саша"
+          },
+          false
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          true
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          false
+        ]
+      ],
+      "maxBets": [
+        [
+          {
+            "name": "Саша"
+          },
+          {
+            "countTricks": "SEVEN",
+            "trump": "DIAMOND"
+          }
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          {
+            "countTricks": "SEVEN",
+            "trump": "NO_TRUMP"
+          }
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          {
+            "countTricks": "SEVEN",
+            "trump": "SPADE"
+          }
+        ]
+      ],
+      "cards": [
+        [
+          {
+            "name": "Саша"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          []
+        ]
+      ],
+      "score": [
+        [
+          {
+            "name": "Саша"
+          },
+          2
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          0
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          4
+        ]
+      ]
+    },
+    {
+      "deck": [],
+      "buiIn": [
+        {
+          "nominal": "KING",
+          "suit": "HEART"
+        },
+        {
+          "nominal": "EIGHT",
+          "suit": "DIAMOND"
+        }
+      ],
+      "fights": [
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "KING",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "DIAMOND"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "DIAMOND"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "DIAMOND"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "KING",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        }
+      ],
+      "countTricks": [
+        [
+          {
+            "name": "Саша"
+          },
+          3
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          6
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          1
+        ]
+      ],
+      "bet": {
+        "countTricks": "NINE",
+        "trump": "HEART"
+      },
+      "placedPlayer": {
+        "name": "Игорь"
+      },
+      "isPlaced": [
+        [
+          {
+            "name": "Саша"
+          },
+          false
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          false
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          true
+        ]
+      ],
+      "maxBets": [
+        [
+          {
+            "name": "Саша"
+          },
+          {
+            "countTricks": "EIGHT",
+            "trump": "CLUB"
+          }
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          {
+            "countTricks": "SEVEN",
+            "trump": "SPADE"
+          }
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          {
+            "countTricks": "NINE",
+            "trump": "HEART"
+          }
+        ]
+      ],
+      "cards": [
+        [
+          {
+            "name": "Саша"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          []
+        ]
+      ],
+      "score": [
+        [
+          {
+            "name": "Саша"
+          },
+          3
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          6
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          0
+        ]
+      ]
+    },
+    {
+      "deck": [],
+      "buiIn": [
+        {
+          "nominal": "ACE",
+          "suit": "HEART"
+        },
+        {
+          "nominal": "KING",
+          "suit": "DIAMOND"
+        }
+      ],
+      "fights": [
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "KING",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "KING",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "KING",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        }
+      ],
+      "countTricks": [
+        [
+          {
+            "name": "Саша"
+          },
+          2
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          2
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          6
+        ]
+      ],
+      "bet": {
+        "countTricks": "NINE",
+        "trump": "SPADE"
+      },
+      "placedPlayer": {
+        "name": "Саша"
+      },
+      "isPlaced": [
+        [
+          {
+            "name": "Саша"
+          },
+          true
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          false
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          false
+        ]
+      ],
+      "maxBets": [
+        [
+          {
+            "name": "Саша"
+          },
+          {
+            "countTricks": "NINE",
+            "trump": "SPADE"
+          }
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          {
+            "countTricks": "SEVEN",
+            "trump": "HEART"
+          }
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          {
+            "countTricks": "EIGHT",
+            "trump": "SPADE"
+          }
+        ]
+      ],
+      "cards": [
+        [
+          {
+            "name": "Саша"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          []
+        ]
+      ],
+      "score": [
+        [
+          {
+            "name": "Саша"
+          },
+          0
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          2
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          6
+        ]
+      ]
+    },
+    {
+      "deck": [],
+      "buiIn": [
+        {
+          "nominal": "NINE",
+          "suit": "SPADE"
+        },
+        {
+          "nominal": "TEN",
+          "suit": "DIAMOND"
+        }
+      ],
+      "fights": [
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "KING",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "DIAMOND"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "DIAMOND"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        }
+      ],
+      "countTricks": [
+        [
+          {
+            "name": "Саша"
+          },
+          3
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          1
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          6
+        ]
+      ],
+      "bet": {
+        "countTricks": "TEN",
+        "trump": "HEART"
+      },
+      "placedPlayer": {
+        "name": "Игорь"
+      },
+      "isPlaced": [
+        [
+          {
+            "name": "Саша"
+          },
+          false
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          false
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          true
+        ]
+      ],
+      "maxBets": [
+        [
+          {
+            "name": "Саша"
+          },
+          {
+            "countTricks": "EIGHT",
+            "trump": "HEART"
+          }
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          {
+            "countTricks": "NINE",
+            "trump": "SPADE"
+          }
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          {
+            "countTricks": "TEN",
+            "trump": "HEART"
+          }
+        ]
+      ],
+      "cards": [
+        [
+          {
+            "name": "Саша"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          []
+        ]
+      ],
+      "score": [
+        [
+          {
+            "name": "Саша"
+          },
+          3
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          1
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          0
+        ]
+      ]
+    },
+    {
+      "deck": [],
+      "buiIn": [
+        {
+          "nominal": "QUEEN",
+          "suit": "SPADE"
+        },
+        {
+          "nominal": "NINE",
+          "suit": "CLUB"
+        }
+      ],
+      "fights": [
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "HEART"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "HEART"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "DIAMOND"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "DIAMOND"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "ACE",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "CLUB"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "NINE",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "KING",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "KING",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "QUEEN",
+                "suit": "SPADE"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            },
+            {
+              "name": "Игорь"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "EIGHT",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "TEN",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        },
+        {
+          "lastPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ],
+          "cards": [
+            [
+              {
+                "name": "Саша"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "DIAMOND"
+              }
+            ],
+            [
+              {
+                "name": "Коля"
+              },
+              {
+                "nominal": "JACK",
+                "suit": "CLUB"
+              }
+            ],
+            [
+              {
+                "name": "Игорь"
+              },
+              {
+                "nominal": "SEVEN",
+                "suit": "SPADE"
+              }
+            ]
+          ],
+          "nextPlayersQueue": [
+            {
+              "name": "Игорь"
+            },
+            {
+              "name": "Саша"
+            },
+            {
+              "name": "Коля"
+            }
+          ]
+        }
+      ],
+      "countTricks": [
+        [
+          {
+            "name": "Саша"
+          },
+          3
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          2
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          5
+        ]
+      ],
+      "bet": {
+        "countTricks": "EIGHT",
+        "trump": "SPADE"
+      },
+      "placedPlayer": {
+        "name": "Саша"
+      },
+      "isPlaced": [
+        [
+          {
+            "name": "Саша"
+          },
+          true
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          false
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          false
+        ]
+      ],
+      "maxBets": [
+        [
+          {
+            "name": "Саша"
+          },
+          {
+            "countTricks": "EIGHT",
+            "trump": "SPADE"
+          }
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          {
+            "countTricks": "SEVEN",
+            "trump": "DIAMOND"
+          }
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          {
+            "countTricks": "SEVEN",
+            "trump": "CLUB"
+          }
+        ]
+      ],
+      "cards": [
+        [
+          {
+            "name": "Саша"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          []
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          []
+        ]
+      ],
+      "score": [
+        [
+          {
+            "name": "Саша"
+          },
+          0
+        ],
+        [
+          {
+            "name": "Коля"
+          },
+          2
+        ],
+        [
+          {
+            "name": "Игорь"
+          },
+          5
+        ]
+      ]
+    }
+  ],
+  "score": [
+    [
+      {
+        "name": "Саша"
+      },
+      8
+    ],
+    [
+      {
+        "name": "Коля"
+      },
+      11
+    ],
+    [
+      {
+        "name": "Игорь"
+      },
+      15
+    ]
+  ]
+}
